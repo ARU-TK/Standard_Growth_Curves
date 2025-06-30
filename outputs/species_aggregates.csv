@@ -1,0 +1,120 @@
+SPECIES_ID,Species_Name,Latin_Name,Species_count,AGE_BAND_non_null_count,unique_AGE_BAND_values
+111,Brown / sea trout,Salmo trutta,992002,623947,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8+, 9+, 13+, >0, >0+, >1, >1+, >2, >2+, >3, >3+, >4, >4+, >5+, >6+"
+118,Atlantic salmon,Salmo salar,381681,327103,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, >0, >0+, >1, >1+, >2+"
+194,Roach,Rutilus rutilus,2666287,69960,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9, 9+, 10, 10+, 11, 11+, 12, 12+, 13, 13+, 14+, 15+, 16+, >0, >0+, >1, >1+, >2, >2+, >3+, >4, >4+, >5+, >6+"
+152,Chub,Leuciscus cephalus,313481,31281,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9, 9+, 10, 10+, 11, 11+, 12, 12+, 13, 13+, 14, 14+, 15, 15+, 16, 16+, 17, 17+, 18, 18+, 19, 19+, 20+, >0, >0+, >1, >1+, >3+, >4+, >5+, >6+, >7+, >8+, >9+, >10+, >11+, >12+, >20+"
+153,Dace,Leuciscus leuciscus,447328,28556,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9, 9+, 10, 10+, 11, >0+, >1+, >2+, >5+"
+211,Perch,Perca fluviatilis,403480,8152,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9+, 10, 10+, 11, 11+, 13, >0+, >1"
+193,Gudgeon,Gobio gobio,365181,7785,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7+, 8+, >0, >0+, >1+, >2+, >3+, >4"
+154,Grayling,Thymallus thymallus,41497,7446,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5+, 6+, 10+, >0, >0+, >1+, >2+"
+283,Bullhead,Cottus gobio,256010,6098,"0, 0+, 1+, 2, >0, >0+"
+213,Pike,Esox lucius,109606,5392,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9, 9+, 10, 10+, 11, 11+, 12+, 13, 13+, 14+, >1+"
+182,Common bream,Abramis brama,221758,5086,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9, 9+, 10, 10+, 11, 11+, 12, 12+, 13, 13+, 14, 14+, 15, 15+, 16, 16+, 17, 17+, 18, 18+, 19+, 20+, >9, >10"
+181,Bleak,Alburnus alburnus,191490,4179,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6+, 7+"
+151,Barbel,Barbus barbus,18115,2421,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9, 9+, 10, 10+, 11, 11+, 12, 12+, 13, 13+, 14, 14+, 15, 15+, 16, 16+, 17, 17+, 18+, 19, 19+, 20, 20+, >20+"
+196,Rudd,Scardinius erythrophthalmus,38639,675,"0+, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8+, 9+, 11+, 12+, 14+, >4+"
+198,Ruffe,Gymnocephalus cernuus,94339,634,"0, 0+, 1+, 2, 2+, 3, 3+, 4+, 5+, 6+"
+199,Silver bream,Abramis bjoerkna,95593,555,"0, 1+, 2+, 3, 3+, 4, 4+, 5+, 6, 6+, 7, 7+, 8+, 9+"
+114,Rainbow trout,Oncorhynchus mykiss,4165,487,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6+, >0+, >1+, >2+"
+241,European eel,Anguilla anguilla,71395,353,"0, 0+, 1+, >0+"
+212,Pike varieties,Esox lucius,3082,243,"0, 0+, 1, 1+, 2, 2+, 3, 3+, 4, 4+, 5, 5+, 6, 6+, 7, 7+, 8, 8+, 9+, 10+"
+201,Tench,Tinca tinca,16054,126,"0, 1+, 2, 2+, 3, 3+, 4+, 5, 5+, 6, 6+, 7, 7+, 8+, 9+, 10+, 12+, >0+"
+286,Stone loach,Barbatula barbatula,110436,78,"0, >0"
+195,Rudd varieties,Scardinius erythrophthalmus,953,75,"0, 2+, 3, 4, 4+, 5, 6, 7"
+200,Tench varieties,Tinca tinca,591,63,"0, 4, 10"
+342,Flounder,Platichthys flesus,14463,52,0+
+131,Brown / sea trout x salmon hybrid,Salmo trutta x Salmo salar,111,49,"0+, 1+, 2+, >0+"
+284,Minnow,Phoxinus phoxinus,210621,40,"0, 0+, >0+"
+184,Common [wild] carp,Cyprinus carpio,9734,35,"0, 2, 2+, 3, 3+, 4+, 5, 5+, 7+, 10+, 14"
+478,Roach x common bream hybrid,Rutilus rutilus x Abramis brama,27629,18,"0, 1+, 2+, 3+, 4+, 5+, 6+, 8+"
+189,Crucian carp,Carassius carassius,11230,16,"0, 3+, 5+, 6+"
+183,Common carp varieties,Cyprinus carpio,530,14,"0, 2+, 3+, 12+"
+191,Feral [brown] goldfish,Carassius auratus,1070,13,"2+, 3+, 4+, 6+, 9+"
+242,European eels > elvers,Anguilla anguilla,101035,10,"0+, >0+"
+188,Mirror carp,Cyprinus carpio,4160,7,"0, >10"
+1195,Brown / sea trout x rainbow trout hybrid,Salmo trutta x Oncorhynchus mykiss,51,6,"0+, 1+"
+417,Golden orfe,Leuciscus idus,36,2,"2+, 3+"
+372,Arctic charr,Salvelinus alpinus,2,2,3+
+424,Zander,Sander lucioperca,8065,2,"0+, 6+"
+321,Lamprey sp. > ammocoete,Petromyzontidae,974,1,>1+
+103,Salmonid species,,1,1,0+
+346,Thick lipped grey mullet,Chelon labrosus,67,1,9+
+185,Ghost carp,Cyprinus carpio,316,1,4+
+479,Roach x rudd hybrid,Rutilus rutilus x Scardinius erythrophthalmus,1173,1,3+
+320,Lamprey sp.,Petromyzontidae,6019,1,>0+
+480,Roach x silver bream hybrid,Rutilus rutilus x Abramis bjoerkna,221,1,2+
+1196,Lampetra sp.,Lampetra,1310,1,>0+
+281,3-spined stickleback,Gasterosteus aculeatus,73192,1,0
+186,Koi carp,Cyprinus carpio,34,1,10
+471,Bleak x roach hybrid,Alburnus alburnus x Rutilus rutilus,26,0,
+243,European elvers,Anguilla anguilla,11678,0,
+481,Rudd x common bream hybrid,Scardinius erythrophthalmus x Abramis brama,35,0,
+322,Lamprey sp. ammocoetes,Petromyzontidae,2343,0,
+1198,Lampetra sp. ammocoetes,Lampetra,340,0,
+412,Motherless minnow / Sunbleak,Leucaspius delineatus,1456,0,
+192,Golden goldfish,Carassius auratus,45,0,
+285,Spined loach,Cobitis taenia,4472,0,
+319,Sea lamprey ammocoetes,Petromyzon marinus,3,0,
+1176,Gobius sp.,Gobius,14,0,
+190,Goldfish varieties,Carassius auratus,19,0,
+476,Goldfish x common carp hybrid,Carassius auratus x Cyprinus carpio,7,0,
+1197,Lampetra sp. > ammocoete,Lampetra,207,0,
+140,Freshwater species,,278,0,
+416,Blue orfe,Leuciscus idus,1,0,
+132,Brown / sea trout x brook trout hybrid,Salmo trutta x Salvelinus fontinalis,2,0,
+473,Common bream x silver bream hybrid,Abramis brama x Abramis bjoerkna,69,0,
+1,All species,,1,0,
+442,Chub x dace hybrid,Leuciscus cephalus x Leuciscus leuciscus,19,0,
+553,Red mullet,Mullus surmuletus,1,0,
+415,Orfe / Ide,Leuciscus idus,150,0,
+347,Thin lipped grey mullet,Liza ramada,171,0,
+316,River lamprey ammocoetes,Lampetra fluviatilis,15,0,
+197,Golden rudd,Scardinius erythrophthalmus,405,0,
+531,Herring,Clupea harengus,4,0,
+318,Sea lamprey > ammocoete,Petromyzon marinus,9,0,
+547,Plaice,Pleuronectes platessa,9,0,
+202,Golden tench,Tinca tinca,3,0,
+423,Wels catfish,Silurus glanis,92,0,
+583,Viviparous blenny,Zoarces viviparus,1,0,
+441,Chub x bleak hybrid,Leuciscus cephalus x Alburnus alburnus,4,0,
+445,Roach x chub hybrid,Rutilus rutilus x Leuciscus cephalus,89,0,
+514,Cod,Gadus morhua,4,0,
+244,European glass eels,Anguilla anguilla,850,0,
+446,Roach x dace hybrid,Rutilus rutilus x Leuciscus leuciscus,46,0,
+1000,White sucker,Catostomus commersonii,2,0,
+314,River lamprey,Lampetra fluviatilis,563,0,
+343,Golden grey mullet,Liza aurata,3,0,
+443,Dace x bleak hybrid,Leuciscus leuciscus x Alburnus alburnus,26,0,
+1020,Goby sp.,Gobiidae,56,0,
+400,Non-native species,,2,0,
+312,Brook lamprey > ammocoete,Lampetra planeri,1592,0,
+403,Bitterling,Rhodeus sericeus,4575,0,
+404,Brook trout,Salvelinus fontinalis,6,0,
+418,Pumpkinseed,Lepomis gibbosus,139,0,
+408,Grass carp,Ctenopharyngodon idella,226,0,
+477,Goldfish x crucian carp hybrid,Carassius auratus x Carassius carassius,6,0,
+482,Rudd x silver bream hybrid,Scardinius erythrophthalmus x Abramis bjoerkna,5,0,
+214,Golden pike,Esox lucius,7,0,
+550,Pouting / Bib,Trisopterus luscus,3,0,
+1179,Pomatoschistus sp.,Pomatoschistus,19,0,
+345,Smelt,Osmerus eperlanus,1961,0,
+371,Allis shad,Alosa alosa,22,0,
+341,Common goby,Pomatoschistus microps,328,0,
+414,Orfe varieties,Leuciscus idus,10,0,
+378,Twaite shad,Alosa fallax,4,0,
+1024,Right sided flatfish sp.,Pleuronectidae,94,0,
+1152,Grey mullet sp.,Mugilidae,105,0,
+317,Sea lamprey,Petromyzon marinus,225,0,
+344,Sea bass,Dicentrarchus labrax,204,0,
+573,Straight-nosed pipefish,Nerophis ophidion,1,0,
+571,Sprat,Sprattus sprattus,1880,0,
+313,Brook lamprey ammocoetes,Lampetra planeri,8234,0,
+557,Sand goby ,Pomatoschistus minutus,140,0,
+282,10-spined stickleback,Pungitius pungitius,3083,0,
+311,Brook lamprey,Lampetra planeri,5242,0,
+475,Common carp x crucian carp hybrid,Cyprinus carpio x Carassius carassius,70,0,
+584,Whiting,Merlangius merlangus,4,0,
+521,Dover sole,Solea solea,10,0,
+187,Leather carp,Cyprinus carpio,135,0,
+315,River lamprey > ammocoete,Lampetra fluviatilis,424,0,
+422,Topmouth gudgeon,Pseudorasbora parva,97,0,
