@@ -1,4 +1,4 @@
-SPECIES_NAME,AGE_BAND,q10,q40,median,q60,q90,n
+SPECIES_NAME,AGE_BAND,very_slow,slow,average,fast,very_fast,n
 Barbel,0,30,36,39,44,105,19
 Barbel,1,71,96,102,107,126,150
 Barbel,2,110,142,156,165,211,237
